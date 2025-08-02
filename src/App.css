@@ -21,6 +21,7 @@ textarea:focus-visible {
   outline-offset: 2px;
 }
 
+
 /* Loading animation for hero images */
 @keyframes shimmer {
   0% {

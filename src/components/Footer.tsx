@@ -22,7 +22,7 @@ const programLinks = [
 ];
 
 const quickLinks = [
-  { name: "About Us", href: "/about" },
+  { name: "About Us", href: "./AboutSection.tsx" },
   { name: "Our Team", href: "/about/team" },
   { name: "Ghetto Stories", href: "/about/stories" },
   { name: "Our Sponsors", href: "/sponsors" },
